@@ -1,9 +1,12 @@
-# 2020년 1학기 한림대학교 소프트웨어융합대학 빅데이터 캡스톤디자인
+# 2020년 1학기 한림대학교 소프트웨어융합대학 
+# 빅데이터 캡스톤디자인
 
 ## 프로젝트명
 - [안심귀가길 도보안내 (개발 Repository)](https://github.com/HallymSSH/SSHAndroid)
 
-![KakaoTalk_20200619_171625440](https://user-images.githubusercontent.com/50908525/85112476-a2ff7580-b250-11ea-9541-55c0b9a68f5e.jpg)
+![1](https://user-images.githubusercontent.com/50908525/85112890-549ea680-b251-11ea-8cb3-3dca2931fb4c.png)
+![2](https://user-images.githubusercontent.com/50908525/85112896-55cfd380-b251-11ea-9373-ca2520a27442.png)
+![3](https://user-images.githubusercontent.com/50908525/85112972-7c8e0a00-b251-11ea-9bb0-158f80925e33.png)
 
 ## 목표 및 기대효과
 - 기존의 도보 안내는 최단 경로 또는 편한 길로 안내를 하고, 주변 CCTV와 경찰서 정보만 제공한다. 그러나, 안심 귀갓길 도보 안내 앱은 최단 경로가 아닌 CCTV와 가로 등이 밀집되어 있는 장소 위주로 경로를 제공해 안전한 귀가를 도와준다.
@@ -38,6 +41,7 @@
 ## 스크린샷
 ### [PowerPoint Link](https://github.com/HallymSSH/SSHReport/blob/master/Document/SSH_%EC%95%88%EC%8B%AC%EA%B7%80%EA%B0%80%EA%B8%B8_%EC%98%81%EC%83%81%EC%A0%9C%EA%B1%B0.pptx)
 
+![KakaoTalk_20200619_171625440](https://user-images.githubusercontent.com/50908525/85112476-a2ff7580-b250-11ea-9541-55c0b9a68f5e.jpg)
 ![스크린샷1](https://user-images.githubusercontent.com/50908525/85111575-7bf47400-b24f-11ea-9606-6ba957b7ef9c.png)
 ![스크린샷2](https://user-images.githubusercontent.com/50908525/85111558-77c85680-b24f-11ea-8191-995ebef59307.png)
 ![스크린샷3](https://user-images.githubusercontent.com/50908525/85111562-78f98380-b24f-11ea-9fa6-661eeb3f9ee9.png)

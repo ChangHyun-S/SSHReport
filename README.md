@@ -1,7 +1,7 @@
 # 2020년 1학기 한림대학교 소프트웨어융합대학 빅데이터 캡스톤디자인
 
 ## 프로젝트명
-- [안심귀가길 도보안내(개발 Repository)](https://github.com/HallymSSH/SSHAndroid)
+- [안심귀가길 도보안내 (개발 Repository)](https://github.com/HallymSSH/SSHAndroid)
 ## 목표 및 기대효과
 - 기존의 도보 안내는 최단 경로 또는 편한 길로 안내를 하고, 주변 CCTV와 경찰서 정보만 제공한다. 그러나, 안심 귀갓길 도보 안내 앱은 최단 경로가 아닌 CCTV와 가로 등이 밀집되어 있는 장소 위주로 경로를 제공해 안전한 귀가를 도와준다.
 - 긴급상황 발생 시 특정 동작을 통해 근처 파출소로 연락을 할 수 있는 기능을 제공하고, 사용자뿐만이 아니라 경찰들에게 서비스를 제공함으로써 범죄에 빠르게 대응할 수 있도록 도와준다.
@@ -20,6 +20,12 @@
 - 언어 : JAVA
 - 데이터베이스 : sqlite
 - API : Tmap API, Daum 우편번호 서비스, 공공데이터포털 전국 CCTV
+
+## 회의록
+- [바로가기](https://github.com/HallymSSH/SSHReport/tree/master/%ED%9A%8C%EC%9D%98%EB%A1%9D)
+
+## 보고서 및 PPT
+- [Link](https://github.com/HallymSSH/SSHReport/tree/master/Document)
 
 ## Process
 ### [PowerPoint Link](https://github.com/HallymSSH/SSHReport/blob/master/Document/SSH_%EC%95%88%EC%8B%AC%EA%B7%80%EA%B0%80%EA%B8%B8_%EC%98%81%EC%83%81%EC%A0%9C%EA%B1%B0.pptx)

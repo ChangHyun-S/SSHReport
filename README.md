@@ -27,7 +27,7 @@
 - API : Tmap API, Daum 우편번호 서비스, 공공데이터포털 전국 CCTV
 
 ## 회의록
-- [바로가기](https://github.com/HallymSSH/SSHReport/tree/master/%ED%9A%8C%EC%9D%98%EB%A1%9D)
+- [Link](https://github.com/HallymSSH/SSHReport/tree/master/%ED%9A%8C%EC%9D%98%EB%A1%9D)
 
 ## 보고서 및 PPT
 - [Link](https://github.com/HallymSSH/SSHReport/tree/master/Document)
